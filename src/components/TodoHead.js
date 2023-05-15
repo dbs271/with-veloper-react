@@ -33,7 +33,7 @@ function TodoHead() {
     <TodoHeadBlock>
       <h1>2023년 5월 16일</h1>
       <div className="day">화요일</div>
-      <div className="tasks-left">할 일 많이 남음</div>
+      <div className="tasks-left">할 일 많이 남음!</div>
     </TodoHeadBlock>
   );
 }
